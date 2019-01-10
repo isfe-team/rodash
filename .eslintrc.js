@@ -1,3 +1,8 @@
 module.exports = {
-    "extends": "standard"
+  extends: "standard",
+  globals: {
+    describe: true,
+    it: true,
+    expect: true
+  }
 };

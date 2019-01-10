@@ -1,4 +1,7 @@
-import chunk from 'lib/chunk.js'
-export default function () {
-	console.log(chunk)
+import chunk from './lib/chunk'
+import compact from './lib/compact'
+
+export default {
+  chunk,
+  compact
 }

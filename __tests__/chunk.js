@@ -1,3 +1,5 @@
+/* global describe, it, expect */
+
 const chunk = require('../lib/chunk')
 
 const testArrayFactory = () => [ 1, 2, 3, 4, 5 ]
