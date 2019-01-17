@@ -1,4 +1,4 @@
 module.exports = {
-	verbose: true,
-	collectCoverage: true
+  verbose: true
+  // collectCoverage: true
 }
