@@ -1,6 +1,6 @@
 /* global describe, it, expect */
 
-const castArray = require('../lib/lang/castArray')
+const castArray = require('../../lib/lang/castArray')
 
 const emptyArray = [ ]
 const originalValue = [1, 2]
